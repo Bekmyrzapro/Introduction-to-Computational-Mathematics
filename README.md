@@ -10,6 +10,11 @@ https://www.youtube.com/playlist?list=PLQ0QdEYha9cMXUDbus_YwM534-g1dvtVY
 # Link to tutorial on Stepik
 https://stepik.org/206278
 
+![image](https://github.com/Bekmyrzapro/Introduction-to-Computational-Mathematics/assets/74038682/893f2504-cb63-42c4-b594-a4691f984f6e)
+![image](https://github.com/Bekmyrzapro/Introduction-to-Computational-Mathematics/assets/74038682/0918e34f-8b4e-4719-a5ac-13b3d58beea7)
+![image](https://github.com/Bekmyrzapro/Introduction-to-Computational-Mathematics/assets/74038682/bc5ec525-0e48-4470-aab4-764e0b69d8fa)
+
+
 # Lectures
 [Computational_Mathematics_Lectures.pptx](https://github.com/Bekmyrzapro/Introduction-to-Computational-Mathematics/files/15446740/Computational_Mathematics_Lectures.pptx)
 [Function_Approximation_in_Computational_Mathematics.pptx](https://github.com/Bekmyrzapro/Introduction-to-Computational-Mathematics/files/15446775/Function_Approximation_in_Computational_Mathematics.pptx)
