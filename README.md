@@ -15,6 +15,11 @@ https://stepik.org/206278
 ![image](https://github.com/Bekmyrzapro/Introduction-to-Computational-Mathematics/assets/74038682/bc5ec525-0e48-4470-aab4-764e0b69d8fa)
 
 
+https://docs.google.com/forms/d/e/1FAIpQLSe71aCC1D9MMvpexmKysLdFI2bhCbURGr6wEOEFfvWF3CrCQQ/viewform?usp=sf_link
+![image](https://github.com/Bekmyrzapro/Introduction-to-Computational-Mathematics/assets/74038682/de143aa3-baa9-4c58-92e5-cee0cd14cb68)
+
+
+
 # Lectures
 [Computational_Mathematics_Lectures.pptx](https://github.com/Bekmyrzapro/Introduction-to-Computational-Mathematics/files/15446740/Computational_Mathematics_Lectures.pptx)
 [Function_Approximation_in_Computational_Mathematics.pptx](https://github.com/Bekmyrzapro/Introduction-to-Computational-Mathematics/files/15446775/Function_Approximation_in_Computational_Mathematics.pptx)
